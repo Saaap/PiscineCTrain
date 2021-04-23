@@ -2,5 +2,5 @@
 
 void ft_print_number(void)
 {
-    write(1, "123456789", 10);
+    write(1, "0123456789", 10);
 }
